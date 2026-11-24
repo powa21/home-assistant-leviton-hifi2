@@ -1,14 +1,14 @@
 {
   "domain": "leviton_hifi2",
   "name": "Leviton Hi-Fi 2",
-  "version": "1.0.0",
-  "requirements": [],
   "codeowners": [
     "@powa21"
   ],
   "config_flow": true,
-  "iot_class": "local_push",
   "documentation": "https://github.com/powa21/home-assistant-leviton-hifi2",
+  "integration_type": "device",
+  "iot_class": "local_push",
   "issue_tracker": "https://github.com/powa21/home-assistant-leviton-hifi2/issues",
-  "integration_type": "device"
+  "requirements": [],
+  "version": "1.0.0"
 }
