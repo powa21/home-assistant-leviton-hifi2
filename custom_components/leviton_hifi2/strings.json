@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Leviton Hi-Fi 2",
+        "description": "Enter the amplifier IP address, TCP port and number of zones.",
+        "data": {
+          "host": "IP address or hostname",
+          "port": "TCP port",
+          "zones": "Number of zones"
+        }
+      }
+    }
+  }
+}

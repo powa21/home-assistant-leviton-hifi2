@@ -1,0 +1,3 @@
+DOMAIN = "leviton_hifi2"
+DEFAULT_PORT = 23
+DEFAULT_ZONES = 8
